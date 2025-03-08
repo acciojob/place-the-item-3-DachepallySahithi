@@ -1,6 +1,6 @@
 /* Your CSS Code here. */
-holder {
-  display: flex;             
-  flex-wrap: wrap;           
-  justify-content: space-evenly; 
+.holder {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: space-evenly !important;
 }
